@@ -1,0 +1,21 @@
+.table{
+    width: 80%;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.table-bordered thead td, .table-bordered thead th {
+    background-color: rgb(176, 221, 217);
+    text-align: center;
+}
+
+.sidehead {
+    font-weight: bold;
+    align-items: center;
+    
+    
+}
+.textrandom{
+    width: 80%;
+    margin-left: 90%;
+    margin-top: 50px;
+}
